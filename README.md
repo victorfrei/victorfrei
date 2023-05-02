@@ -1,5 +1,5 @@
 # 👋 Olá! Bem Vindo ao meu Github.
-## Meu nome é Victor e minha nick é "victorfrei"!
+## Meu nome é Victor e meu nick é "victorfrei"!
 
 
 - 🔭 Atualmente estou trabalhando como Web Development.
