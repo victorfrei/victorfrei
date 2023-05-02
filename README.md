@@ -2,11 +2,11 @@
 ## Meu nome é Victor e meu nick é "victorfrei"!
 
 
-- 🔭 Atualmente estou trabalhando como Web Development.
+- 🔭 Atualmente estou trabalhando com Desenvolvimento Web.
 - 🌱 Atualmente estou me aprofundando em unity 3D, Nodejs e SaaS (Software as a Service)
-- 👯 Atualmente gostaria de colaborar com o Javascript/Typescript em projetos e com empresas que utilizando o javascript/typescript como linguagem primária.
+- 👯 Atualmente gostaria de colaborar com a linguagem "Javascript/Typescript" em projetos e utiliza-los empresas que utilizam primariamente essas linguagens.
 - 💬 Você pode me pergunta sobre qualquer coisa.
-- 📫 você pode entrar em contato por email: victor@geekapps.com.br ou whatsapp: +5598984250103
+- 📫 Você pode entrar em contato por email: victor@geekapps.com.br ou whatsapp: +5598984250103
 
 
 # Ferramentas e Tecnologias
