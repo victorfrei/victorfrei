@@ -1,26 +1,20 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Victor and my nickname is "victorfrei"!
+# 👋 Olá! Bem Vindo ao meu Github.
+## Meu nome é Victor e minha nick é "victorfrei"!
 
 
-- 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning about unity 3D development, Nodejs and SaaS (Software as a Service)
-- 👯 I’m looking to collaborate on Javascript/Typescript projects and businesses that use it as main programming language.
-- 💬 Ask me about me, about what I like to do or maybe about doing a business
-- 📫 How to reach me: via email on victor@geekapps.com.br or whatsapp +5598984250103
+- 🔭 Atualmente estou trabalhando como Web Development.
+- 🌱 Atualmente estou me aprofundando em unity 3D, Nodejs e SaaS (Software as a Service)
+- 👯 Atualmente gostaria de colaborar com o Javascript/Typescript em projetos e com empresas que utilizando o javascript/typescript como linguagem primária.
+- 💬 Você pode me pergunta sobre qualquer coisa.
+- 📫 você pode entrar em contato por email: victor@geekapps.com.br ou whatsapp: +5598984250103
 
-<! --
-- ⚡ Fun fact: ...
--->
 
-## Ferramentas e Tecnologias
-
+# Ferramentas e Tecnologias
 
 ## Ferramentas de desenvolvimento de Hardware
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
           
-
-
 ### Ferramentas que mais tenho afinidade
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
