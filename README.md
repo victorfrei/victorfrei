@@ -6,7 +6,7 @@
 - 🌱 Atualmente estou me aprofundando em unity 3D, Nodejs e SaaS (Software as a Service)
 - 👯 Atualmente gostaria de colaborar com a linguagem "Javascript/Typescript" em projetos e utiliza-los empresas que utilizam primariamente essas linguagens.
 - 💬 Você pode me pergunta sobre qualquer coisa.
-- 📫 Você pode entrar em contato por email: victor@geekapps.com.br ou whatsapp: +5598984250103
+- 📫 Você pode entrar em contato por email: victor@destrave.space ou whatsapp: +5598984250103
 
 <div>
 <a href="https://github.com/victorfrei">
