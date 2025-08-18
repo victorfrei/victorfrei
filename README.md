@@ -1,4 +1,4 @@
-# 👨‍💻 Victor Freire
+# 👨‍💻 Victor Freire #
 
 Sou um desenvolvedor full-stack apaixonado por criar experiências digitais completas — da lógica à interface.  
 Atuo na interseção entre **tecnologia**, **design** e **negócios**, com forte foco em **usabilidade**, **acessibilidade** e **performance**.
